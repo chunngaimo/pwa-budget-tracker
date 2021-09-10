@@ -37,6 +37,10 @@ A budget tracker used to track withdrawals and deposits with or without a data/i
 
 ## Links
 
+Link to repository on [GitHub](https://github.com/chunngaimo/pwa-budget-tracker)
+
+Link to deployed application on [Heroku](https://budget-tracker-nemo.herokuapp.com/)
+
 ---
 
 ## Screenshot
